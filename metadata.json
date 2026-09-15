@@ -1,0 +1,8 @@
+{
+  "name": "Orça Conex Lab",
+  "description": "Calculadora de custos e propostas de impressão 3D com gestão de carteira de clientes, Lifetime Value (LTV), relatório financeiro de vendas fechadas e controle de estoque de filamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
